@@ -1,5 +1,5 @@
 import React from 'react';
-import ChessBoard from '../pages/board.js';  // Adjust path as necessary
+import ChessBoard from 'pages/board.js';  // Adjust path as necessary
 
 const Home = () => {
   return (
