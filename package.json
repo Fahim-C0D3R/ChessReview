@@ -12,7 +12,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "chess.js": "^1.0.0",
-    "react-chessboard": "^1.6.5"
+    "react-chessboard": "^1.5.5"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
